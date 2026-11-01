@@ -2,8 +2,7 @@
 {
   "name": "campus-service",
   "version": "1.0.0",
-  "description": "A small university campus service project demonstrating DevOps practices",
-  "main": "app.js",
+  "private": true,
   "scripts": {
     "test": "node --test"
   }
